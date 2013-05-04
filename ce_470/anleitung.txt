@@ -1,0 +1,6 @@
+Bite diese Schritte ausführen:
+http://www.oxid-esales.com/de/support-services/dokumentation-und-hilfe/archiv-oxid-eshop/eshop-aktualisieren/auf-die-utf-8-zeichenkodierung-updaten.html
+
+Danach im Admin unter Service/Tools die Datenbank-Views aktualisieren und 
+unter Grundeinstellungen/Einstell./Weitere Einstellungen das Euro-Zeichen aktualisieren.
+----------------------------------------------------------------------------------------
